@@ -16,7 +16,7 @@
 
 - [Atelier d'initiation à SPSS avec le fichier du recensement 2016 de Statistique Canada](https://crlnp.github.io/spss/)
 
-- [Introduction à l'analyse qualitative avec QDA Miner]()
+- [Introduction à l'analyse qualitative avec QDA Miner](https://crlnp.github.io/qda/)
 
 <br>
 <br>
