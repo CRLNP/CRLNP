@@ -18,7 +18,7 @@
 
 - [Introduction à l'analyse qualitative avec QDA Miner](https://crlnp.github.io/qda/)
 
-- [Formation sur la recherche et l'usage de statistiques sociales et de données d'enquête]()
+- [Formation sur la recherche et l'usage de statistiques sociales et de données d'enquête](https://crlnp.github.io/recherche/)
 
 <br>
 <br>
