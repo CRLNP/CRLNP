@@ -1,4 +1,4 @@
-
+<h3>Bonjour! 👋</h3>
 
 # Quelques formations pour s'initier à l'utilisation de données
 
@@ -17,6 +17,8 @@
 - [Atelier d'initiation à SPSS avec le fichier du recensement 2016 de Statistique Canada](https://crlnp.github.io/spss/)
 
 - [Introduction à l'analyse qualitative avec QDA Miner](https://crlnp.github.io/qda/)
+
+- [Formation sur la recherche et l'usage de statistiques sociales et de données d'enquête]()
 
 <br>
 <br>
