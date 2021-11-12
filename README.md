@@ -14,7 +14,9 @@
 
 - [Introduction à la gestion des données de recherche](https://crlnp.github.io/intro-gdr/#1)
 
-- [Atelier d'initiation à SPSS avec le fichier du recensement 2016 de Statistique Canada](https://github.com/CRLNP/SPSS/blob/main/SPSS-A-2021.pdf)
+- [Atelier d'initiation à SPSS avec le fichier du recensement 2016 de Statistique Canada](https://crlnp.github.io/spss/)
+
+- [Introduction à l'analyse qualitative avec QDA Miner]()
 
 <br>
 <br>
