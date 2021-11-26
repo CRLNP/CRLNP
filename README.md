@@ -2,7 +2,7 @@
 
 # Quelques formations pour s'initier à l'utilisation de données
 
-- [Atelier Premiers pas avec R ](https://crlnp.github.io/) ->  Site d’accompagnement aux capsules réalisées dans le cadre du Mooc [Introduction à la science des données sociales](https://catalogue.edulib.org/fr/cours/umontreal-isds/) offert sur la plateforme EDUlib de l’Université de Montréal.
+- [Atelier Premiers pas avec R ](https://crlnp.github.io/) ->  Site d’accompagnement aux capsules réalisées dans le cadre du Mooc [Introduction à la science des données sociales](https://catalogue.edulib.org/fr/cours/umontreal-isds/) offert sur la plateforme EDUlib de l’Université de Montréal (inscription gratuite et ouverte à tous).
 
 - [Intro à RStudio](https://crlnp.github.io/intro-Rstudio/)
 
