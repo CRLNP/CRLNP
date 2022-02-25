@@ -16,6 +16,7 @@
     - [Capsule Youtube](https://www.youtube.com/watch?v=BOrdkGUrTws)
 
 - [Atelier d'initiation à SPSS avec le fichier du recensement 2016 de Statistique Canada](https://crlnp.github.io/spss/)
+    - [Webinaire](https://www.youtube.com/watch?v=0MtTLF4oeng)
 
 - [Introduction à l'analyse qualitative avec QDA Miner](https://crlnp.github.io/qda/)
     - [Capsules Youtube](https://www.youtube.com/playlist?list=PL1K-7kmyXRXEYdldeSzf6POcOb8zlQyZd)
