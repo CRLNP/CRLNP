@@ -34,13 +34,13 @@
 
 - [Introduction à l'analyse qualitative avec QDA Miner](https://crlnp.github.io/qda/)
     - [Capsules Youtube](https://www.youtube.com/playlist?list=PL1K-7kmyXRXEYdldeSzf6POcOb8zlQyZd)
-<br>
+
 
 # Zotero
 - [Test code html/javascript pour diffusion d'une bibliothèque Zotero en ligne](https://crlnp.github.io/biblio-anthropo/)
 
 <br>
 <br>
-<br>
+
 ![](https://acegif.com/wp-content/uploads/cat-typing-2.gif)
 
