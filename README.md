@@ -4,7 +4,7 @@
 - [Présentation SOL6941](https://crlnp.github.io/SOL6941/) 
 
 - [Formation sur la recherche et l'usage de statistiques sociales et de données d'enquête](https://crlnp.github.io/recherche/)
-<br>
+
 
 # Quelques formations pour s'initier à l'utilisation de données
 
@@ -18,7 +18,7 @@
 
 - [Atelier d'initiation à SPSS avec le fichier du recensement 2016 de Statistique Canada](https://crlnp.github.io/spss/)
     - [Webinaire](https://www.youtube.com/watch?v=0MtTLF4oeng)
-<br>
+
 
 # Gestion des données de recherche
 
@@ -28,7 +28,7 @@
 
 - [Introduction à la gestion des données de recherche](https://crlnp.github.io/intro-gdr/#1)
     - [Capsule Youtube](https://www.youtube.com/watch?v=BOrdkGUrTws)
-<br>
+
 
 # Analyse qualitative
 
@@ -41,6 +41,6 @@
 
 <br>
 <br>
-
+<br>
 ![](https://acegif.com/wp-content/uploads/cat-typing-2.gif)
 
